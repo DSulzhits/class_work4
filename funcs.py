@@ -1,5 +1,5 @@
 def sum(x, y):
     return x + y
 
-def devide(x, y):
+def mul(x, y):
     return x * y
